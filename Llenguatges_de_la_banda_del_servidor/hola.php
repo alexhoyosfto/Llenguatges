@@ -1,1 +1,1 @@
-Hola, Menorca!
+<?php Hola, Hoyos! :?>
